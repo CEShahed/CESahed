@@ -4,7 +4,7 @@
   direction: rtl;
 }
 
-@import url('https://v1.fontapi.ir/css/Vazir');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/vazir-font/29.0.2/font-face.min.css');
 
 body{
   background-color: #17132e;
@@ -52,7 +52,7 @@ a:hover{
 }
 
 article{
-  padding: 30px ;
+  padding: 30px;
 }
 
 code, blockquote{
