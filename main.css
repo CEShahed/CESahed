@@ -58,6 +58,7 @@ article{
 code, blockquote{
   font-family: monospace;
   font-size: 1.02rem;
+  direction: ltr;
 }
 
 p {
