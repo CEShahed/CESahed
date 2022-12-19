@@ -61,6 +61,10 @@ code, blockquote{
   direction: ltr;
 }
 
+code *, blockquote *{
+  direction: ltr;
+}
+
 p {
   margin: 10px 0;
 }
