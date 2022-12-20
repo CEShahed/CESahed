@@ -52,7 +52,15 @@ a:hover{
 }
 
 article{
+  margin: auto;
+  max-width: 800px;
   padding: 30px;
+}
+
+@media (max-width:340px) {
+  article{
+    padding: 10px;
+  }
 }
 
 code, blockquote{
