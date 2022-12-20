@@ -63,6 +63,14 @@ article{
   }
 }
 
+.quote::before, .quote::after{
+  content: '"';
+}
+
+.quote{
+
+}
+
 code, blockquote{
   font-family: monospace;
   font-size: 1.02rem;
